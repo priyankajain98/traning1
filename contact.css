@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar.part1 ul li{
+  width: 20%;
+	display: inline;
+	margin-left: 25%;
+	margin-right: -5%;
+  position: relative;
+}
+.contact-page-google-map {
+  position: relative;
+  display: block;
+  }
+  .contact-page-google-map__one {
+    position: relative;
+    display: block;
+    border: none;
+    height: 560px;
+    width: 100%;
+  }
+
+
+  .contact-page .iconform:hover{
+    background-color:  #1f2230;
+  }
+  .submit{
+    background-color: #15c79f;
+  }
+  
+
